@@ -3,7 +3,7 @@ import { MacbookScroll } from "@/components/ui/macbook-scroll";
 
 export function MacbookScrollDemo() {
   return (
-    <div className="w-full overflow-hidden bg-color">
+    <div className="w-full -mt-72 overflow-hidden bg-color">
       <MacbookScroll
         badge={
           <a href="https://peerlist.io/manuarora">

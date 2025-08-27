@@ -41,7 +41,7 @@ export default function () {
   return (
     <section id="testimonials">
         <h1 className="mt-10 text-fade-in text-center text-3xl sm:text-5xl font-extrabold mb-6">
-                Clients  <span className="text-purple-500">Testimonials</span>
+                Our  <span className="text-purple-500">Team</span>
             </h1>
        <div className='flex flex-col sm:flex-row'>
          <div className='flex flex-row text-white'>
